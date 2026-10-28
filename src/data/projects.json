@@ -1,0 +1,54 @@
+[
+  {
+    "title": "Nova Analytics",
+    "year": "2025",
+    "category": "SaaS Dashboard",
+    "description": "A real-time analytics platform with custom charting, saved views and role-based access. Cut dashboard load time by 62%.",
+    "tags": ["React", "TypeScript", "D3.js", "Node"],
+    "accent": "linear-gradient(135deg, #0ea5e9, #6366f1)",
+    "links": {
+      "live": "#",
+      "code": "https://github.com/91fazlulkarim91-dotcom"
+    },
+    "featured": true
+  },
+  {
+    "title": "Lumen Store",
+    "year": "2025",
+    "category": "E-commerce",
+    "description": "A headless storefront with instant search, optimistic cart updates and a checkout that converts. Built for a growing lifestyle brand.",
+    "tags": ["Next.js", "Stripe", "Prisma", "PostgreSQL"],
+    "accent": "linear-gradient(135deg, #f97316, #db2777)",
+    "links": {
+      "live": "#",
+      "code": "https://github.com/91fazlulkarim91-dotcom"
+    },
+    "featured": true
+  },
+  {
+    "title": "Pulse Chat",
+    "year": "2024",
+    "category": "Real-time App",
+    "description": "Team messaging with presence, threads and file sharing. Handles 10k concurrent sockets on a single node with Redis pub/sub.",
+    "tags": ["React", "Socket.IO", "Redis", "Express"],
+    "accent": "linear-gradient(135deg, #10b981, #0ea5e9)",
+    "links": {
+      "live": "#",
+      "code": "https://github.com/91fazlulkarim91-dotcom"
+    },
+    "featured": true
+  },
+  {
+    "title": "Atlas UI",
+    "year": "2024",
+    "category": "Design System",
+    "description": "An accessible component library and Figma kit used across four products. 48 components, fully typed, with visual regression tests.",
+    "tags": ["React", "Storybook", "Radix", "CSS"],
+    "accent": "linear-gradient(135deg, #a855f7, #ec4899)",
+    "links": {
+      "live": "#",
+      "code": "https://github.com/91fazlulkarim91-dotcom"
+    },
+    "featured": true
+  }
+]
